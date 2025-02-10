@@ -55,8 +55,9 @@ Para executar o código localmente, siga os passos abaixo:
 1. **Instale as dependências**:
    Certifique-se de ter o Python 3 instalado, juntamente com as bibliotecas necessárias. Você pode instalar as bibliotecas necessárias utilizando o seguinte comando:
 
+```bash
 pip install pandas matplotlib seaborn numpy
-
+```
 
 2. **Execute o código**:
 O código pode ser executado em qualquer ambiente de desenvolvimento que suporte Python, como Jupyter Notebook, VSCode, ou diretamente no Google Colab.
